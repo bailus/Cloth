@@ -4,7 +4,7 @@ CXXFLAGS =	-O2 -g -Wall -fmessage-length=0 ${INCLUDES}
 
 OBJS =		Floor.o Sphere.o Shader.o Triangle.o Particle.o Constraint.o Cloth.o main.o
 
-LIBS =     -lm -lGLEW -lGL -lGLU -lglut -lpng
+LIBS =     -lm -lGLEW -lGL -lGLU -lglut
 
 TARGET =	main
 
