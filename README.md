@@ -1,5 +1,7 @@
 # Simple Cloth Simulation
 
+![kvDO5LH.png](https://bitbucket.org/repo/8Lzd4r/images/3532277056-kvDO5LH.png)
+
 ## Compiling
 
  Type 'make'. This will compile the program.
